@@ -1,0 +1,17 @@
+Hola {firstname} {lastname},
+
+Moltes gràcies per haver comprat a {shop_name}!
+
+La vostra comanda de referència {order_name} ha estat enviada a destí. 
+
+Rebreu aviat un URL per tal que pugueu fer el seguiment del vostre paquet.
+
+Podeu revisar la vostra comanda i descarregar-vos la factura corresponent a l'apartat "Historial de comandes" dins de la secció "El meu compte" de la nostra botiga.
+
+Si teniu un compte de convidat, podeu fer el seguiment de l'enviament a partir de l'enllaç següent:
+{guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+{shop_url} és gestionat amb PrestaShop™
+

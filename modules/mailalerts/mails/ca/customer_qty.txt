@@ -1,0 +1,9 @@
+Hola,
+
+El producte {product} ara està disponible. Aquest ítem ja torna a estar en estoc.
+
+Podeu accedir a la pàgina del producte a: {product_link}
+
+
+{shop_url} és gestionat amb PrestaShop™
+

@@ -1,0 +1,12 @@
+Hola {firstname} {lastname}, 
+
+Gracies per fer una comanda a {shop_name}!
+
+Teniu {nbProducts} producte(s) per baixar-vos.
+
+Seguidament hi ha l'enllaç per baixar-vos-els directament:
+{virtualProducts}
+
+Podeu revisar aquesta comanda i descarregar-vos la factura des de la secció "Historial i detalls de les vostres comandes" del vosre compte prement sobre "El meu compte" a la nostra pàgina web.
+
+{shop_url} és gestionat amb PrestaShop™

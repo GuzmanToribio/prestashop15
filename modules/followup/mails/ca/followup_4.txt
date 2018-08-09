@@ -1,0 +1,14 @@
+Et trobem a faltar a {shop_name}
+
+Hola {firstname} {lastname},
+
+Sou un dels nostres millors clients, malgrat que fa {days_threshold} dies que no feu cap comanda.
+
+Volem agraïr-vos la confiança que heu dipositat en nosaltres i volem oferir-vos un descompte d'un {amount}% per a la vostra propera comanda. Aquesta oferta és vàlida només durant {days} dies, de manera que no podeu perdre ni un moment!
+
+El vostre número de cupó és  {voucher_num}
+
+Introduïu aquest codi al vostre carret per aconseguir el descompte del cupó.
+
+
+{shop_name} és gestionat amb PrestaShop™

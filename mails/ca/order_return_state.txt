@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},
+
+Informació sobre la vostra devolució de comanda núm. {id_order_return}
+
+L'estat de la vostra devolució de comanda ha canviat a "{state_order_return}".
+
+Podeu revisar aquesta devolució de comanda des de la secció "Historial i detalls de les seves comandes" del seu compte prement sobre "El meu compte" a la nostra pàgina web.
+
+{shop_name} és gestionat amb PrestaShop™

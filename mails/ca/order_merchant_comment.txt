@@ -1,0 +1,10 @@
+Hola {firstname} {lastname},
+
+Teniu un nou missatge de {shop_name} sobre la comanda amb referència {order_name}.
+
+Contingut del missatge sobre la comanda #{id_order}:
+
+{message}
+
+
+{shop_url} és gestionat amb PrestaShop™

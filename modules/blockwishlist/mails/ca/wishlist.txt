@@ -1,0 +1,9 @@
+Hola,
+
+{firstname} {lastname} ens ha comentat que estarieu interessats a veure la seva llista de favorits {wishlist}: 
+
+{message}
+
+
+
+{shop_url} és gestionat amb PrestaShop™

@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},   
+
+La vostra comanda ha estat enviada.
+
+Podeu fer el seguiment del vostre paquet fent clic a l'enllaç següent: {followup}
+
+També podeu revisar la comanda i descarregar la vostra factura a la secció "Històric de comandes" del vostre compte, fent clic a  "El meu compte" al nostre lloc Web.
+
+{shop_name} és gestionat amb PrestaShop™

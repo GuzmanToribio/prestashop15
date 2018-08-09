@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+La vostra comanda {order_name} ha patit un canvi per part de la botiga.
+
+Podeu revisar la comanda i descarregar la factura corresponent a l'apartat "Historial de Comandes" de la secció "El meu compte".
+
+Si teniu un compte de convidat, podeu fer-ne el seguiment a partir de l'enllaç següent:
+
+{guest_tracking_url} 
+
+{shop_url} és gestionat amb PrestaShop™

@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},
+
+Heu fet una nova comanda.
+
+Seguiu l'enllaç {order_link} per fer efectiu el pagament.
+
+{shop_name} - {shop_url}
+
+{shop_url} és gestionat amb PrestaShop™

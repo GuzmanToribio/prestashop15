@@ -1,0 +1,11 @@
+Hola {firstname} {lastname}.
+
+Informació sobre la vostra comanda núm. {id_order}
+
+Us informem de la creació d'un cupó de descompte al vostre favor relacionat amb la vostra comanda núm. {id_order}.
+
+Aquest és el codi del vostre cupó de descompte: {voucher_num}, per la quantitat de  {voucher_amount}. 
+
+Per fer efectiu aquest descompte, simplement copieu i enganxeu aquest codi durant el procés de pagament de la vostra propera comanda.
+
+{shop_name} és gestionat amb PrestaShop™

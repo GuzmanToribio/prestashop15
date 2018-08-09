@@ -1,0 +1,13 @@
+Hola {firstname} {lastname}.
+
+Informació sobre la vostra comanda núm. {id_order}
+
+Hi ha un problema amb el pagament de la vostra comanda núm. {id_order}.
+
+Si us plau, poseu-vos en contacte amb nosaltres amb la major brevetat possible.
+
+La vostra comanda no serà enviada fins que no resolguem la incidència.
+
+Podeu revisar aquesta comanda i descarregar la factura des de la secció "Historial i detalls de les vostres comandes" del vostre compte prement sobre "El meu compte" a la nostra pàgina web.
+
+{shop_name} és gestionat amb PrestaShop™

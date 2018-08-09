@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Moltes gràcies per la vostra comanda a {shop_name}
+
+Una manera que tenim d'agraïr-vos la vostra compra és oferir-vos un descompte d'un {amount}% sobre la vostra propera comanda. Aquesta oferta és vàlida només durant {days}, no podeu perdre ni un moment!
+
+Aquí hi ha la referència del vostre cupó de descompte: {voucher_num}
+
+Inseriu aquest codi al vostre carret de la compra per aconseguir el descompte.
+
+{shop_url} és gestionat amb PrestaShop™

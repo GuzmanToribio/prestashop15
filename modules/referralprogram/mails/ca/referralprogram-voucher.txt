@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Hem creat un cupó de descompte al vostre nom atès que ens heu enviat un amic vostre.
+
+El codi del vostre cupó de descompte és {voucher_num}, amb una quantitat total de {voucher_amount}.
+
+Per aplicar-lo només cal que copieu/enganxeu el codi durant el procés de pagament de la vostra propera comanda.
+
+Moltes gràcies per comprar a {shop_name}.
+
+{shop_url} és gestionat amb PrestaShop™

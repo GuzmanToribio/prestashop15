@@ -1,0 +1,11 @@
+Hola,   
+
+Missatge d'un client de {shop_name}
+
+Heu rebut un missatge d'un client referent a la comanda núm. {id_order}:
+
+Client: {firstname} {lastname} ({email})
+
+{message}
+
+{shop_url} és gestionat amb PrestaShop™

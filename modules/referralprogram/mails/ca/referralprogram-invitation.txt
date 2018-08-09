@@ -1,0 +1,17 @@
+{firstname_friend} {lastname_friend}, uniu-vos a nosaltres!
+
+La vostra amistat {firstname} {lastname}  us recomana {shop_url}.
+
+Doneu-vos d'alta i guanyeu un cupó de descompte de {discount}!
+
+Donar-se d'alta és molt senzill. Només cal que cliqueu l'enllaç següent:
+
+{shop_url}{link}
+
+Quan hagueu finalitzat l'alta, no us oblideu d'inserir l'adreça electrònica de la vostra amistat:  {email}.
+
+
+
+
+{shop_url} és gestionat amb PrestaShop™
+

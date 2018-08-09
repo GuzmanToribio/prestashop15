@@ -1,0 +1,9 @@
+Hola,
+
+Hem revisat la teva subscripció a la newsletter, i estem encantats d'oferir-te el següent cupó de descompte: {discount}
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} és gestionat amb PrestaShop™

@@ -1,0 +1,11 @@
+Hola,
+ 
+Missatge en relació a l'estocatge de producte {product}
+ 
+El producte {product} està gairebé esgotat.
+
+L'estoc de cobertura és inferior al mínim especificat a {warning_coverage}.
+
+Cobertura actual d'estoc: {current_coverage}.
+
+{shop_url} és gestionat amb PrestaShop™

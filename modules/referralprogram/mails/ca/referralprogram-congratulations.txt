@@ -1,0 +1,8 @@
+Enhorabona!
+
+El vostre amic/amiga, {sponsored_firstname} {sponsored_lastname} ha fet la seva primera comanda a {shop_url}! 
+
+Estarem encantats d'oferir-vos un cupó de descompte de {discount_display} (cupó # {discount_name}) que podreu usar a la vostra nova comanda.
+
+
+{shop_url} Powered by PrestaShop™

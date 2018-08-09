@@ -1,0 +1,17 @@
+Hola,
+
+El vostre missatge ha estat enviat al servei d'Atenció al Client de {shop_name}.
+
+El vostre missatge:
+
+{message}
+
+ID de comanda: {id_order}
+
+Fitxer adjunt: {attached_file}
+
+Us enviarem una resposta tan aviat com ens sigui possible.
+
+Salutacions,
+
+{shop_url} és gestionat amb PrestaShop™

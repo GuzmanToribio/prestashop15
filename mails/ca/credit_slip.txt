@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Us informem que s'ha generat un cupó d'abonament de compra al vostre favor des de la comanda núm. {id_order}. 
+
+Podeu veure'l i baixar-vos la factura de l'apartat "Seguir Comanda" del vostre compte seleccionant l'apartat "El meu compte" del nostre lloc web.
+
+Gracies per comprar a {shop_name}.
+
+{shop_name} - {shop_url}
+
+{shop_url} és gestionat amb PrestaShop™

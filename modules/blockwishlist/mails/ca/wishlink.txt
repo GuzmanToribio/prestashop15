@@ -1,0 +1,7 @@
+Hola,
+
+{shop_name} us convida a enviar aquest missatge als vostres amics, per tal que puguin veure la seva llista de preferits {wishlist} :
+
+{message}
+
+{shop_name}  és gestionat amb PrestaShop™

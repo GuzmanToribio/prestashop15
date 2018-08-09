@@ -1,0 +1,12 @@
+Hola {firstname} {lastname},
+
+El vostre compte de client de {shop_name} ha estat transformat en un compte de client.
+
+Adreça electrònica: {email}
+Contrasenya: {passwd}
+
+Podeu accedir al vostre compte des del nostre web: {shop_url}
+
+Si us plau, teniu en compte a l'hora de compartir la vostra informació amb altres persones.
+
+{shop_url} és gestionat amb PrestaShop™

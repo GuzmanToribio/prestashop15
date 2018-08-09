@@ -1,0 +1,10 @@
+
+[/{shop_url}] 
+
+Kaixo {firstname} {lastname}, 
+
+{message} 
+
+{shop_name} [/{shop_url}] PrestaShop(tm)
+[http://www.prestashop.com/]ekin sortua 
+

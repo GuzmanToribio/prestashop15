@@ -1,0 +1,14 @@
+Hola {name},
+
+
+{customer} us ha enviat un enllaç a uns productes que potser us poden interessar.
+
+
+{product}: {product_link}
+
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} és gestionat amb PrestaShop™

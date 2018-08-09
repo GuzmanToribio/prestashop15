@@ -1,0 +1,14 @@
+Hola {firstname} {lastname}.
+
+Informació sobre la vostra comanda núm. {id_order}
+
+Estem processant la vostra comanda.
+
+Podeu revisar aquesta comanda i descarregar la factura des de la secció "Historial i detalls de les vostres comandes" del vostre compte prement sobre "El meu compte" a la nostra pàgina web.
+
+Si teniu un compte de convidat, podeu fer el seguiment des del següent enllaç: {guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+
+{shop_url} és gestionat amb PrestaShop™

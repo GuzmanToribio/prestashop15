@@ -1,0 +1,9 @@
+Hola,
+		
+Atenció: heu rebut una nova alerta al vostre tauler de control Back Office.
+ 
+Veieu-lo anant a la secció "Eines" > "Logs" del vostre tauler de control.
+
+{shop_name} - {shop_url}
+
+{shop_url} és gestionat amb PrestaShop™

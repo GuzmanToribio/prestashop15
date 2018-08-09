@@ -1,0 +1,26 @@
+Hola,
+
+Teniu una nova comanda de {firstname} {lastname} ({email}) a {shop_name}.
+
+Comanda: {order_name}
+De data: {date}
+Transportista: {carrier}
+Pagament: {payment}
+Descomptes: {total_discounts}
+Enviament: {total_shipping}
+Productes: {total_products}
+Manipulat per a regal: {total_wrapping}
+Total per a pagar: {total_paid}
+
+Adreça d'enviament:
+
+{delivery_block_txt}
+
+Adreça de facturació:
+
+{invoice_block_txt}
+
+Missatge del client
+{message}
+
+{shop_url} és gestionat amb PrestaShop™

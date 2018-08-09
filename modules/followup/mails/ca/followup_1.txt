@@ -1,0 +1,13 @@
+Hola {firstname} {lastname},
+ 
+Hem vist que durant la vostra darrera visita a {shop_name}, no heu completat la comanda que havieu iniciat.
+
+El vostre carret ha estat desat, i podeu reprendre la comanda visitant de nou la botiga:
+
+{shop_url}
+
+Com a incentiu, us volem oferir un descompte del {amount}% sobre la vostra següent comanda! Aquesta oferta és vàlida només durant  {days} dies, de manera que no es pot perdre temps!
+
+Aquest és el vostre cupó: {voucher_num}
+ 
+Entreu el codi al vostre carret i se us aplicarà la promoció.

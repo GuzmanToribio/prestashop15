@@ -1,0 +1,12 @@
+Hola,
+
+Gairebé no hi ha estoc del producte {product}.
+
+Hi ha en estoc una quanitat inferior al mínim especificat a {last_qty}.
+
+Estoc disponible: {qty}
+
+S'aconsella anar a la pàgina d'administració del producte per tal de fer una comanda de proveïdor per emplenar l'inventari.
+
+
+{shop_url} és gestionat amb PrestaShop™

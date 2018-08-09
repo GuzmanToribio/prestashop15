@@ -1,0 +1,7 @@
+Hola. 
+
+Aquest és un correu de comprovació enviat des de la vostra botiga en línia PrestaShop.   
+
+Salutacions,
+
+{shop_name} és gestionat amb PrestaShop™
